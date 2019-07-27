@@ -5,18 +5,18 @@ O objetivo desse repositório é dispor a lista atualizada de CFOP (Código Fisc
 
 Atualmente está sendo mantida no formato .csv
 
-Download: [https://raw.githubusercontent.com/jansenfelipe/cfop/1.0/cfop.csv](cfop.csv)
+Download: [https://raw.githubusercontent.com/XRSites/cfop/1.0/cfop.csv](cfop.csv)
 
 ### Composer 
 
 ```shell
-$ composer require jansenfelipe/cfop
+$ composer require xrsites/cfop
 ```
 
 ### NPM 
 
 ```shell
-$ npm install jansenfelipe-cfop
+$ npm install xrsites-cfop
 ```
 
 ### Licence
